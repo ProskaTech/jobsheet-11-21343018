@@ -1,4 +1,4 @@
-## Object-oriented Programming 09: Java Class
+## Object-oriented Programming 11: Inheritance & Encapsulation
 > Created by Anita Nursi &nbsp;&middot;&nbsp;
 > Student ID Number: 21343018 &nbsp;&middot;&nbsp;
 > Majority of Informatics &nbsp;&middot;&nbsp;
